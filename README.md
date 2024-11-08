@@ -51,9 +51,17 @@ Gambar diatas adalah tampilan ketika user memilih 2 (registrasi) pada menu klien
 
 Gambar diatas adalah tampilan menu admin ketika user telah berhasil login menjadi admin, menu yang telah ditampilkan adalah fasilitas admin untuk mengelola data layanan yang dimana layanan tersebut akan dipakai oleh klien. 
 
+![revisi stlh login admin](https://github.com/user-attachments/assets/f1855a81-e0a2-42be-ba41-dbc714b06d3c)
+
+Gambar diatas adalah tampilan ketika admin salah menginput username dan password sehingga gagal untuk login.
+
 ![github7](https://github.com/user-attachments/assets/19f10372-dbb6-4bfc-85af-8be8baf89eff)
 
 Gambar diatas adalah tampilan ketika admin memilih nomor 1 (Tambah Layanan), admin akan diminta untuk mengisi kode,layanan, dan harga yang ingin ditambahkan ke dalam tabel layanan, setelah itu program langsung menampilkan tabel data layanan terbaru setelah admin menambahkan data layanan baru.
+
+![revisi jika kode sama](https://github.com/user-attachments/assets/4ef1f098-245a-44ac-b128-62b8a64371cb)
+
+Gambar diatas adalah tampilan ketika admin mengisi kode yang sama untuk melakukan penambahan data, program akan kembali meminta admin untuk mengisi kode yang berbeda agar bisa ditambahkan, berlaku juga pada layanan tidak boleh menambah layanan yang sama.
 
 ![github8](https://github.com/user-attachments/assets/438d1b77-9813-4c78-b1fd-630d7f92261c)
 
@@ -71,6 +79,10 @@ Gambar diatas adalah tampilan ketika admin memilih 4 (Hapus Layanan). Program ak
 
 Gambar diatas adalah tampilan ketika admin memilih 5 (Kembali) pada menu admin. Maka user sekarang kembali ke menu utama (bukan seorang admin lagi), pada menu utama ini, user dapat memilih role sebagai admin atau klien. 
 
+![revisi stlh pilih mnu admin](https://github.com/user-attachments/assets/c0d60d15-3ac0-4b28-a7a5-02747d61c0fd)
+
+Gambar diatas adalah tampilan ketika admin memasukkan pilihan menu berupa huruf sehingga program tidak bisa melanjutkan akses menu.
+
 ![github12](https://github.com/user-attachments/assets/72e21f27-6bf3-4dfe-9e6b-27677621ac1b)
 
 Gambar diatas adalah tampilan ketika user memilih 2 (Klien) pada menu utama. Ketika masuk ke menu klien, user menjadi klien dan diminta untuk memasukan menu yang ingin dipilih.
@@ -85,7 +97,12 @@ Gambar diatas adalah tampilan ketika klien berhasil login. Program akan menampil
 
 ![github16](https://github.com/user-attachments/assets/594a0a3c-702b-4d17-b4c2-348c5fd04ef6)
 
-Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. Program akan menampilkan layanan kesehatan beserta harga/jam dan status dari layanan tersebut, lalu klien diminta untuk memasukkan layanan yang ingin dipilih beserta durasi layanan. Setelah itu program akan menampilkan 2 pilihan untuk metode pembayaran diikuti dengan total pembayaran. Klien akan diminta untuk memilih metode pembayaran, pembayaran akan berhasil jika jumlah saldo (sesuai dengan data saldo masing2 klien) atau uang tunai yang di isi lebih dari total pembayaran dan program akan menampilkan struk pembelian. Jika saldo atau uang tunai kurang dari total pembayaran makan pembayaran gagal.
+Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. Program akan menampilkan layanan kesehatan beserta harga/jam dan status dari layanan tersebut, lalu klien diminta untuk memasukkan layanan yang ingin dipilih beserta durasi layanan. Setelah itu program akan menampilkan 2 pilihan untuk metode pembayaran diikuti dengan total pembayaran. Klien akan diminta untuk memilih metode pembayaran, pembayaran akan berhasil jika jumlah saldo (sesuai dengan data saldo masing2 klien) atau uang tunai yang di isi lebih dari total pembayaran dan program akan menampilkan struk pembelian. Jika saldo atau uang tunai kurang dari total pembayaran makan pembayaran gagal
+
+![pembayaran tunai gagal](https://github.com/user-attachments/assets/d0e4d1e2-a22b-4434-9a50-a8c42600294e)
+
+Gambar diatas adalah tampilan ketika saldo e=money klien tidak mencukupi total pembayaran maka pembayaran gagal.
+
 
 ![github17](https://github.com/user-attachments/assets/4457cbe6-124a-44a2-9643-ad7d167a0ef6)
 
