@@ -121,15 +121,19 @@ Gambar diatas adalah tampilan ketika klien memilih 1 (Login). Klien akan diminta
 
 Gambar diatas adalah tampilan ketika klien berhasil login. Program akan menampilkan tabel menu klien yang dimana pada menu klien ini lah fasilitas utama bagi klien (pengguna).Lalu klien diminta untuk memasukkan pilihan menu yang akan digunakan.
 
+![akun blm terdaftra](https://github.com/user-attachments/assets/57665b1c-8eaf-4be4-99e1-cc1842e9a19d)
+
+Gambar diatas adalah tampilan ketika klien gagal login dikarenakan username dan password yang klie masukkan belum terdaftar atau belum ada pada data pengguna, sehingga klien tidak bisa mengakses menu klien selanjutnya.
+
 
 ![github16](https://github.com/user-attachments/assets/594a0a3c-702b-4d17-b4c2-348c5fd04ef6)
 
-Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. Program akan menampilkan layanan kesehatan beserta harga/jam dan status dari layanan tersebut, lalu klien diminta untuk memasukkan layanan yang ingin dipilih beserta durasi layanan. Setelah itu program akan menampilkan 2 pilihan untuk metode pembayaran diikuti dengan total pembayaran. Klien akan diminta untuk memilih metode pembayaran, pembayaran akan berhasil jika jumlah saldo (sesuai dengan data saldo masing2 klien) atau uang tunai yang di isi lebih dari total pembayaran dan program akan menampilkan struk pembelian. Jika saldo atau uang tunai kurang dari total pembayaran makan pembayaran gagal
+Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. Program akan menampilkan layanan kesehatan beserta harga/jam dan status dari layanan tersebut, lalu klien diminta untuk memasukkan layanan yang ingin dipilih beserta durasi layanan. Setelah itu program akan menampilkan 2 pilihan untuk metode pembayaran diikuti dengan total pembayaran. Klien akan diminta untuk memilih metode pembayaran, pembayaran akan berhasil jika jumlah saldo (sesuai dengan data saldo masing2 klien) atau uang tunai yang di isi lebih dari total pembayaran dan program akan menampilkan struk pembelian. Jika saldo atau uang tunai kurang dari total pembayaran akan pembayaran gagal.
 
 
 ![pembayaran tunai gagal](https://github.com/user-attachments/assets/d0e4d1e2-a22b-4434-9a50-a8c42600294e)
 
-Gambar diatas adalah tampilan ketika saldo e=money klien tidak mencukupi total pembayaran maka pembayaran gagal.
+Gambar diatas adalah tampilan ketika saldo e-money klien tidak mencukupi total pembayaran maka pembayaran gagal.
 
 
 ![github17](https://github.com/user-attachments/assets/4457cbe6-124a-44a2-9643-ad7d167a0ef6)
