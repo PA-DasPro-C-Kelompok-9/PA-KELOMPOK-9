@@ -12,6 +12,7 @@ Nama Anggota Kelompok 9:
 
 3.👩‍💻Vebronia Vitania Lusi  (2409116112)
 
+
 # ✎✧˚ ༘Library  ⋆｡˚📝
  1. PrettyTable digunakan untuk membuat tabel yang lebih menarik dan teratur. 
  2. Os berfungsi untuk memberikan efek pembersihan layar pada output program. 
