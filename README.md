@@ -133,7 +133,7 @@ Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. 
 
 ![pembayaran tunai gagal](https://github.com/user-attachments/assets/d0e4d1e2-a22b-4434-9a50-a8c42600294e)
 
-Gambar diatas adalah tampilan ketika saldo e-money klien tidak mencukupi total pembayaran maka pembayaran gagal.
+Gambar diatas adalah tampilan ketika saldo e-money klien tidak mencukupi total pembayaran maka pembayaran gagal. Sehingga program akan menanyakan kepada klien untuk top up saldo e-money, jika klien mengisi "y" (ya) maka klien langsung diarahkan ke menu top up e-money.
 
 
 ![github17](https://github.com/user-attachments/assets/4457cbe6-124a-44a2-9643-ad7d167a0ef6)
