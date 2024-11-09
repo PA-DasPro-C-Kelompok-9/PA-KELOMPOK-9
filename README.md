@@ -17,7 +17,7 @@
  1. **PrettyTable**     ➺digunakan untuk membuat tabel yang lebih menarik dan teratur. 
  2. **Os**              ➺berfungsi untuk memberikan efek pembersihan layar pada output program. 
  3. **Pwinput**         ➺digunakan untuk menyembunyikan input password yang akan dimasukkan saat program dijalankan. 
- 4. **json**            ➺digunakan untuk mengakses modul JSON, yang memungkinkan penguraian data JSON menjadi objek Python.
+ 4. **Json**            ➺digunakan untuk mengakses modul Json, yang memungkinkan penguraian data Json menjadi objek Python.
 
 # Fitur Admin 📱🙎🏻‍♀️
 1. Tambah Layanan
@@ -128,7 +128,12 @@ Gambar diatas adalah tampilan ketika klien gagal login dikarenakan username dan 
 
 ![github16](https://github.com/user-attachments/assets/594a0a3c-702b-4d17-b4c2-348c5fd04ef6)
 
-Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. Program akan menampilkan layanan kesehatan beserta harga/jam dan status dari layanan tersebut, lalu klien diminta untuk memasukkan layanan yang ingin dipilih beserta durasi layanan. Setelah itu program akan menampilkan 2 pilihan untuk metode pembayaran diikuti dengan total pembayaran. Klien akan diminta untuk memilih metode pembayaran, pembayaran akan berhasil jika jumlah saldo (sesuai dengan data saldo masing2 klien) atau uang tunai yang di isi lebih dari total pembayaran dan program akan menampilkan struk pembelian. Jika saldo atau uang tunai kurang dari total pembayaran akan pembayaran gagal.
+Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. Program akan menampilkan layanan kesehatan beserta harga/jam dan status dari layanan tersebut, lalu klien diminta untuk memasukkan layanan yang ingin dipilih beserta durasi layanan. Setelah itu program akan menampilkan 2 pilihan untuk metode pembayaran diikuti dengan total pembayaran. Klien akan diminta untuk memilih metode pembayaran, pembayaran akan berhasil jika jumlah saldo (sesuai dengan data saldo masing2 klien) atau uang tunai yang di isi lebih dari total pembayaran dan program akan menampilkan struk pembelian. Jika saldo atau uang tunai kurang dari total pembayaran maka pembayaran gagal.
+
+
+![tunai kurang](https://github.com/user-attachments/assets/a0e0212d-dda2-47b1-a210-e018849ae174)
+
+Gambar diatas adalah tampilan ketika klien mengisi uang tunai yang kurang dari total pembayaran sehingga pembayaran gagal. Selanjutnya program menampilkan kembali pilihan metode pembayaran untuk melanjutkan proses pembayaran agar klien bisa melakukan pembayaran yang memungkinkan berhasil sesuai dengan pilihan klien. 
 
 
 ![pembayaran tunai gagal](https://github.com/user-attachments/assets/d0e4d1e2-a22b-4434-9a50-a8c42600294e)
@@ -148,4 +153,4 @@ Gambar diatas adalah tampilan ketika klien memilih 3 (Cek Saldo E-Money). Progra
 
 ![github19](https://github.com/user-attachments/assets/b1d2d6a6-ef77-4188-8425-a4e6b9e9bb4c)
 
-Gambar diatas adalah tampilan ketika klien memilih 4 (Kembali ke Menu Utama) pada amenu klien, lalu user memilih 3 (Selesai) pada menu utama. Program akan selesai dan tidak melanjutkan proses.
+Gambar diatas adalah tampilan ketika klien memilih 4 (Kembali ke Menu Utama) pada menu klien, lalu user memilih 3 (Selesai) pada menu utama. Program akan selesai dan tidak melanjutkan proses.
