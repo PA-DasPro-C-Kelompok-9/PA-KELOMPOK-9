@@ -15,9 +15,9 @@
 
 # ✎✧˚ ༘Library  ⋆｡˚📝
  1. **PrettyTable**     ➺digunakan untuk membuat tabel yang lebih menarik dan teratur. 
- 2. **Os berfungsi**    ➺untuk memberikan efek pembersihan layar pada output program. 
+ 2. **Os**              ➺berfungsi untuk memberikan efek pembersihan layar pada output program. 
  3. **Pwinput**         ➺digunakan untuk menyembunyikan input password yang akan dimasukkan saat program dijalankan. 
- 4. **json digunakan**  ➺untuk mengakses modul JSON, yang memungkinkan penguraian data JSON menjadi objek Python.
+ 4. **json**            ➺digunakan untuk mengakses modul JSON, yang memungkinkan penguraian data JSON menjadi objek Python.
 
 # Fitur Admin 📱🙎🏻‍♀️
 1. Tambah Layanan
