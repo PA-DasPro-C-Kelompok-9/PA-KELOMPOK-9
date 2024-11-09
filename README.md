@@ -19,13 +19,13 @@ Nama Anggota Kelompok 9:
  3. **Pwinput**         ➺digunakan untuk menyembunyikan input password yang akan dimasukkan saat program dijalankan. 
  4. **json digunakan**  ➺untuk mengakses modul JSON, yang memungkinkan penguraian data JSON menjadi objek Python.
 
-# Fitur Admin
+# Fitur Admin 📱🙎🏻‍♀️
 1. Tambah Layanan
 2. Lihat Informasi Layanan
 3. Perbarui Informasi Layanan
 4. Hapus Layanan
 
-# Fitur pengguna/klien
+# Fitur pengguna/klien 📱👥
 1. Layanan
 2. Top Up E-Money
 3. Cek Saldo E-Money
