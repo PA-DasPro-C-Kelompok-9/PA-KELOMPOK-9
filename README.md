@@ -41,7 +41,7 @@
 
 ![github2](https://github.com/user-attachments/assets/036c0d54-fa29-420b-877e-9707d908a78b)
 
-➡️Gambar diatas adalah tampilan ketika user meimilih 1 (Admin)pada menu utama, dimana user akan diminta mengisi username dan password sebelum masuk ke menu admin(menjadi admin)
+➡️Gambar diatas adalah tampilan ketika user memilih 1 (Admin)pada menu utama, dimana user akan diminta mengisi username dan password sebelum masuk ke menu admin(menjadi admin)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ![github6](https://github.com/user-attachments/assets/bf7d2d4a-c6fe-4531-8ebc-770e2be2a385)
