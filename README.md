@@ -39,12 +39,11 @@ Pada gambar diatas, adalah pembukaan program yang akan meminta user untuk mengin
 
 ![github2](https://github.com/user-attachments/assets/036c0d54-fa29-420b-877e-9707d908a78b)
 
-Gambar diatas adalah tampilan ketika user meimilih 1(Admin), dimana user akan diminta mengisi username dan password sebelum masuk ke menu admin(menjadi admin)
-
+Gambar diatas adalah tampilan ketika user meimilih 1(Admin)pada menu utama, dimana user akan diminta mengisi username dan password sebelum masuk ke menu admin(menjadi admin)
 
 ![github3](https://github.com/user-attachments/assets/e33aacab-aef1-48ff-aedc-277733658b6d)
 
-Gambar diatas adalah tampilan ketika user meimilih 2(klien), dimana user akan diminta mengisi username dan password yang sudah terdata atau sudah registrasi, sebelum masuk ke menu klien(menjadi klien)
+Gambar diatas adalah tampilan ketika user meimilih 2(klien)pada menu utama, dimana user akan diminta mengisi username dan password yang sudah terdata atau sudah registrasi, sebelum masuk ke menu klien(menjadi klien)
 
 ![github5](https://github.com/user-attachments/assets/9eb5ac79-38f6-4054-98ff-c3d68812f0a9)
 
