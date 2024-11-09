@@ -2,6 +2,7 @@
 
 # SISTEM INFORMASI C
 
+
 # ⋆⁺₊✩🩹🩸₊˚APLIKASI LAYANAN KESEHATAN ONLINE ⋆💉⋆⁺₊✧ 
 
 **Nama Anggota Kelompok 9:**
@@ -33,14 +34,14 @@
 
 # Penjelasan cara kerja sistem
 
-![github1](https://github.com/user-attachments/assets/022ecce5-3ab9-4cb9-800d-2c34f837bca9)
+1️⃣![github1](https://github.com/user-attachments/assets/022ecce5-3ab9-4cb9-800d-2c34f837bca9)
 
-Pada gambar diatas, adalah pembukaan program yang akan meminta user untuk menginput/memasukkan pilihan menu dengan angka yang sesuai pada tabel yang ditampilkan. Jika memilih 1, maka program akan langsung meminta user untuk mengisi username dan passsword untuk ke menu admin berikutnya. Jika memilih 2, maka program akan menampilkan 2 pilihan menu klien. Jika memilih 3, maka program akan selesai.
+➡️Pada gambar diatas, adalah pembukaan program yang akan meminta user untuk menginput/memasukkan pilihan menu dengan angka yang sesuai pada tabel yang ditampilkan. Jika memilih 1, maka program akan langsung meminta user untuk mengisi username dan passsword untuk ke menu admin berikutnya. Jika memilih 2, maka program akan menampilkan 2 pilihan menu klien. Jika memilih 3, maka program akan selesai.
 
 
-![github2](https://github.com/user-attachments/assets/036c0d54-fa29-420b-877e-9707d908a78b)
+2️⃣![github2](https://github.com/user-attachments/assets/036c0d54-fa29-420b-877e-9707d908a78b)
 
-Gambar diatas adalah tampilan ketika user meimilih 1(Admin)pada menu utama, dimana user akan diminta mengisi username dan password sebelum masuk ke menu admin(menjadi admin)
+➡️Gambar diatas adalah tampilan ketika user meimilih 1(Admin)pada menu utama, dimana user akan diminta mengisi username dan password sebelum masuk ke menu admin(menjadi admin)
 
 
 ![github6](https://github.com/user-attachments/assets/bf7d2d4a-c6fe-4531-8ebc-770e2be2a385)
