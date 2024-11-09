@@ -98,22 +98,6 @@ Gambar diatas adalah tampilan ketika admin memasukkan pilihan menu berupa huruf 
 Gambar diatas adalah tampilan ketika admin memilih 5 (Kembali) pada menu admin. Maka user sekarang kembali ke menu utama (bukan seorang admin lagi), pada menu utama ini, user dapat memilih role sebagai admin atau klien. 
 
 
-
-
-
-![github3](https://github.com/user-attachments/assets/e33aacab-aef1-48ff-aedc-277733658b6d)
-
-Gambar diatas adalah tampilan ketika user meimilih 2(klien)pada menu utama, dimana user akan diminta untuk memasukkan pilihan menu yang ingin di akses. Ini adalah menu awal klien yang berupa login, registrasi, dan kembali ke menu utama.
-
-
-
-
-
-
-
-
-
-
 ![github12](https://github.com/user-attachments/assets/72e21f27-6bf3-4dfe-9e6b-27677621ac1b)
 
 Gambar diatas adalah tampilan ketika user memilih 2 (Klien) pada menu utama. Ketika masuk ke menu klien, user menjadi klien dan diminta untuk memasukan menu yang ingin dipilih.
@@ -128,9 +112,11 @@ Gambar diatas adalah tampilan ketika klien memilih 1 (Login) pada menu awal klie
 
 Gambar diatas adalah tampilan ketika klien berhasil login. Program akan menampilkan tabel menu klien yang dimana pada menu klien ini lah fasilitas utama bagi klien (pengguna).Lalu klien diminta untuk memasukkan pilihan menu yang akan digunakan.
 
+
 ![akun blm terdaftra](https://github.com/user-attachments/assets/57665b1c-8eaf-4be4-99e1-cc1842e9a19d)
 
 Gambar diatas adalah tampilan ketika klien gagal login dikarenakan username dan password yang klie masukkan belum terdaftar atau belum ada pada data pengguna, sehingga klien tidak bisa mengakses menu klien selanjutnya.
+
 
 ![github5](https://github.com/user-attachments/assets/9eb5ac79-38f6-4054-98ff-c3d68812f0a9)
 
