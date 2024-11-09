@@ -6,9 +6,9 @@
 
 Nama Anggota Kelompok 9:
 
-1. Tsabitah Kawiswara     (2409116099)
-2. Jihan Alya Naflah      (2409116082)
-3. Vebronia Vitania Lusi  (2409116112)
+1.👩‍💻 Tsabitah Kawiswara     (2409116099)
+2.👩‍💻 Jihan Alya Naflah      (2409116082)
+3.👩‍💻Vebronia Vitania Lusi  (2409116112)
 
 # Library
  1. PrettyTable digunakan untuk membuat tabel yang lebih menarik dan teratur. 
