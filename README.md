@@ -97,15 +97,14 @@ Gambar diatas adalah tampilan ketika admin memilih 4 (Hapus Layanan). Program ak
 
 Gambar diatas adalah tampilan ketika admin memasukkan kode yang tidak ada pada data layanan, sehingga program tidak bisa melanjutkan proses pengapusan data karena kode tidak ditemukan.
 
+![revisi stlh pilih mnu admin](https://github.com/user-attachments/assets/c0d60d15-3ac0-4b28-a7a5-02747d61c0fd)
+
+Gambar diatas adalah tampilan ketika admin memasukkan pilihan menu berupa huruf sehingga program tidak bisa melanjutkan akses menu.
+
 
 ![github11](https://github.com/user-attachments/assets/6f14b6ab-8d07-4f7c-a975-a80cdb0f456e)
 
 Gambar diatas adalah tampilan ketika admin memilih 5 (Kembali) pada menu admin. Maka user sekarang kembali ke menu utama (bukan seorang admin lagi), pada menu utama ini, user dapat memilih role sebagai admin atau klien. 
-
-
-![revisi stlh pilih mnu admin](https://github.com/user-attachments/assets/c0d60d15-3ac0-4b28-a7a5-02747d61c0fd)
-
-Gambar diatas adalah tampilan ketika admin memasukkan pilihan menu berupa huruf sehingga program tidak bisa melanjutkan akses menu.
 
 
 ![github12](https://github.com/user-attachments/assets/72e21f27-6bf3-4dfe-9e6b-27677621ac1b)
