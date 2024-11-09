@@ -27,11 +27,6 @@
 4. Hapus Layanan
 
 # Fitur Pengguna/Klien 📱👥
-**Fitur awal:**
-1. Login
-2. Registrasi
-   
-**Fitur utama:**
 1. Layanan
 2. Top Up E-Money
 3. Cek Saldo E-Money
