@@ -43,16 +43,6 @@ Pada gambar diatas, adalah pembukaan program yang akan meminta user untuk mengin
 Gambar diatas adalah tampilan ketika user meimilih 1(Admin)pada menu utama, dimana user akan diminta mengisi username dan password sebelum masuk ke menu admin(menjadi admin)
 
 
-![github3](https://github.com/user-attachments/assets/e33aacab-aef1-48ff-aedc-277733658b6d)
-
-Gambar diatas adalah tampilan ketika user meimilih 2(klien)pada menu utama, dimana user akan diminta untuk memasukkan pilihan menu yang ingin di akses. Ini adalah menu awal klien yang berupa login, registrasi, dan kembali ke menu utama.
-
-
-![github5](https://github.com/user-attachments/assets/9eb5ac79-38f6-4054-98ff-c3d68812f0a9)
-
-Gambar diatas adalah tampilan ketika user memilih 2 (registrasi) pada menu klien, user diminta untukk memasukan username dan password baru yang akan disimpan ke dalam data pengguna, sehingga user dapat login sebagai klien karena sudah memiliki akun (username dan password telah tersimpan).
-
-
 ![github6](https://github.com/user-attachments/assets/bf7d2d4a-c6fe-4531-8ebc-770e2be2a385)
 
 Gambar diatas adalah tampilan menu admin ketika user telah berhasil login menjadi admin, menu yang telah ditampilkan adalah fasilitas admin untuk mengelola data layanan yang dimana layanan tersebut akan dipakai oleh klien. 
@@ -97,6 +87,7 @@ Gambar diatas adalah tampilan ketika admin memilih 4 (Hapus Layanan). Program ak
 
 Gambar diatas adalah tampilan ketika admin memasukkan kode yang tidak ada pada data layanan, sehingga program tidak bisa melanjutkan proses pengapusan data karena kode tidak ditemukan.
 
+
 ![revisi stlh pilih mnu admin](https://github.com/user-attachments/assets/c0d60d15-3ac0-4b28-a7a5-02747d61c0fd)
 
 Gambar diatas adalah tampilan ketika admin memasukkan pilihan menu berupa huruf sehingga program tidak bisa melanjutkan akses menu.
@@ -105,6 +96,22 @@ Gambar diatas adalah tampilan ketika admin memasukkan pilihan menu berupa huruf 
 ![github11](https://github.com/user-attachments/assets/6f14b6ab-8d07-4f7c-a975-a80cdb0f456e)
 
 Gambar diatas adalah tampilan ketika admin memilih 5 (Kembali) pada menu admin. Maka user sekarang kembali ke menu utama (bukan seorang admin lagi), pada menu utama ini, user dapat memilih role sebagai admin atau klien. 
+
+
+
+
+
+![github3](https://github.com/user-attachments/assets/e33aacab-aef1-48ff-aedc-277733658b6d)
+
+Gambar diatas adalah tampilan ketika user meimilih 2(klien)pada menu utama, dimana user akan diminta untuk memasukkan pilihan menu yang ingin di akses. Ini adalah menu awal klien yang berupa login, registrasi, dan kembali ke menu utama.
+
+
+
+
+
+
+
+
 
 
 ![github12](https://github.com/user-attachments/assets/72e21f27-6bf3-4dfe-9e6b-27677621ac1b)
