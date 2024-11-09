@@ -93,6 +93,11 @@ Gambar diatas adalah tampilan ketika admin memasukkan kode yang salah ataua kode
 Gambar diatas adalah tampilan ketika admin memilih 4 (Hapus Layanan). Program akan menampilkan tabel data layanan terlebih dahulu agar admin dapat melihat data layanan mana yang ingin dihapus, setelah itu admin diminta untuk memasukkan kode layanan yang ingin dihapus, setelah itu program akan menampilkan tabel data layanan terbaru yang menyatakan data layanan berhasil dihapus. Setelah itu admin akan ditanya "apakah ingin menghapus data lagi?" jika admin mengisi "t" akan kembali ke menu admin dan jika mengisi "y" akan kembali lagi untuk menghapus data layanan.
 
 
+![revisi kode tdk ditemukan pada delete](https://github.com/user-attachments/assets/955ba735-58f2-43a9-93fc-de3f3219646f)
+
+Gambar diatas adalah tampilan ketika admin memasukkan kode yang tidak ada pada data layanan, sehingga program tidak bisa melanjutkan proses pengapusan data karena kode tidak ditemukan.
+
+
 ![github11](https://github.com/user-attachments/assets/6f14b6ab-8d07-4f7c-a975-a80cdb0f456e)
 
 Gambar diatas adalah tampilan ketika admin memilih 5 (Kembali) pada menu admin. Maka user sekarang kembali ke menu utama (bukan seorang admin lagi), pada menu utama ini, user dapat memilih role sebagai admin atau klien. 
