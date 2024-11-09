@@ -85,7 +85,7 @@ Gambar diatas adalah tampilan ketika admin memilih 3 (Perbarui Informasi Layanan
 
 ![revisi kode tidak ada dlm data](https://github.com/user-attachments/assets/2b2c098f-84eb-47c1-8d9f-a471cf7fa465)
 
-Gambar diatas adalah tampilan ketika admin memasukkan kode yang salah ataua kode yang tidak ada pada data layanan ketika program meminta memasukkan kode yang ingin diperbarui, sehingga program tidak bisa memproses perubahan data dan memberi pertanyaan untuk melanjutkan proses perubahan lagi atau tidak. Jika admin memilih "t" (tidak) maka akan kembali pada menu admin.
+Gambar diatas adalah tampilan ketika admin memasukkan kode yang salah atau kode yang tidak ada pada data layanan ketika program meminta memasukkan kode yang ingin diperbarui, sehingga program tidak bisa memproses perubahan data dan memberi pertanyaan untuk melanjutkan proses perubahan lagi atau tidak. Jika admin memilih "t" (tidak) maka akan kembali pada menu admin.
 
 
 ![github10](https://github.com/user-attachments/assets/4152fbfe-2121-499f-9064-395ec70aa21c)
@@ -114,7 +114,7 @@ Gambar diatas adalah tampilan ketika user memilih 2 (Klien) pada menu utama. Ket
 
 ![github13](https://github.com/user-attachments/assets/5b3a1800-9ed7-499d-9e86-a111ea3a76ea)
 
-Gambar diatas adalah tampilan ketika klien memilih 1 (Login). Klien akan diminta untuk memasukkan username dan password yang tentunya sudah terdaftar atau sudah ada dalam data (klien telah melakukan registrasi). Login Klien ini adalah sebagai syarat berlanjutnya program ke menu klien dengan berbagai fitur yaitu layanan, top up e-money, cek saldo e-money, dan kembali ke menu utama.
+Gambar diatas adalah tampilan ketika klien memilih 1 (Login) pada menu awal klien. Klien akan diminta untuk memasukkan username dan password yang tentunya sudah terdaftar atau sudah ada dalam data (klien telah melakukan registrasi). Login Klien ini adalah sebagai syarat berlanjutnya program ke menu klien dengan berbagai fitur yaitu layanan, top up e-money, cek saldo e-money, dan kembali ke menu utama.
 
 
 ![github14](https://github.com/user-attachments/assets/73d85a55-3334-4608-8402-22d431ecd135)
@@ -124,6 +124,10 @@ Gambar diatas adalah tampilan ketika klien berhasil login. Program akan menampil
 ![akun blm terdaftra](https://github.com/user-attachments/assets/57665b1c-8eaf-4be4-99e1-cc1842e9a19d)
 
 Gambar diatas adalah tampilan ketika klien gagal login dikarenakan username dan password yang klie masukkan belum terdaftar atau belum ada pada data pengguna, sehingga klien tidak bisa mengakses menu klien selanjutnya.
+
+![github5](https://github.com/user-attachments/assets/9eb5ac79-38f6-4054-98ff-c3d68812f0a9)
+
+Gambar diatas adalah tampilan ketika user memilih 2 (registrasi) pada menu klien, user diminta untukk memasukan username dan password baru yang akan disimpan ke dalam data pengguna, sehingga user dapat login sebagai klien karena sudah memiliki akun (username dan password telah tersimpan).
 
 
 ![github16](https://github.com/user-attachments/assets/594a0a3c-702b-4d17-b4c2-348c5fd04ef6)
