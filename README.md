@@ -45,7 +45,7 @@ Gambar diatas adalah tampilan ketika user meimilih 1(Admin)pada menu utama, dima
 
 ![github3](https://github.com/user-attachments/assets/e33aacab-aef1-48ff-aedc-277733658b6d)
 
-Gambar diatas adalah tampilan ketika user meimilih 2(klien)pada menu utama, dimana user akan diminta mengisi username dan password yang sudah terdata atau sudah registrasi, sebelum masuk ke menu klien(menjadi klien)
+Gambar diatas adalah tampilan ketika user meimilih 2(klien)pada menu utama, dimana user akan diminta untuk memasukkan angka sesuai dengan pilihan menu klien yang tersedia. Ini adalah menu awal klien yang berupa login, registrasi, dan kembali ke menu utama.
 
 
 ![github5](https://github.com/user-attachments/assets/9eb5ac79-38f6-4054-98ff-c3d68812f0a9)
